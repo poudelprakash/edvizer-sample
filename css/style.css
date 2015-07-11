@@ -1,0 +1,10 @@
+.slider-container{
+	width: 610px;
+	margin: 5px 20px;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float:right;
+}
