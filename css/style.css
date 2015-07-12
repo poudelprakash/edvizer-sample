@@ -8,3 +8,16 @@
 .pull-right{
 	float:right;
 }
+#pie-chart{
+	width:400px;
+	height: 300px;
+}
+.button-set{
+	margin-left: 40px;
+	padding: 20px;
+}
+.button-set button{
+	margin-top: 10px;
+	padding: 12px;
+	width: 200px;
+}
